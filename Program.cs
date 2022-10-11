@@ -32,6 +32,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             {
                 Console.WriteLine(veri);
             }
+            
             public int ArttırVeTopla(ref int deger1, ref int deger2)
             {
                 deger1++;
